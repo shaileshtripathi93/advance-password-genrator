@@ -30,4 +30,4 @@ You only need a modern web browser (e.g., Chrome, Firefox, Edge, Safari) to use 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/advanced-password-generator.git
+   git clone https://github.com/shaileshtripathi93/advanced-password-generator.git
